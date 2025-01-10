@@ -128,7 +128,7 @@ const CONFIG = {
   HEO_SITE_VISIT_TITLE: '访问量:',
   HEO_SITE_VISITOR_TITLE: '访客数:',
 
-  /*// *****  以下配置无效，只是预留开发 ****
+  // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
   HEO_MENU_INDEX: true, // 显示首页
   HEO_MENU_CATEGORY: true, // 显示分类
@@ -153,6 +153,6 @@ const CONFIG = {
   HEO_WIDGET_TO_TOP: true,
   HEO_WIDGET_TO_COMMENT: true, // 跳到评论区
   HEO_WIDGET_DARK_MODE: true, // 夜间模式
-  HEO_WIDGET_TOC: true // 移动端悬浮目录*/
+  HEO_WIDGET_TOC: true // 移动端悬浮目录
 }
 export default CONFIG
