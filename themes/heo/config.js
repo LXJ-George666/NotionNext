@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'LXJATB.ZEABUR.APP',
   HEO_HERO_TITLE_4: '深入了解',
   HEO_HERO_TITLE_5: '关于本站',
-  HEO_HERO_TITLE_LINK: 'https://lxjatb.zeabur.app/',
+  HEO_HERO_TITLE_LINK: '/herocardtext',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便看看',
 
